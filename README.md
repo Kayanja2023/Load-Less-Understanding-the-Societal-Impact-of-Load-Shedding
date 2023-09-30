@@ -1,5 +1,7 @@
-# 🌐 Load-Shedding Impact Analysis 🌐
 
+# 🌐 Load-Shedding Impact Analysis 🌐
+#
+![Plumbing Business Card](Visualizations/Plumbing%20Business%20Card%20in%20Teal%20and%20White%20Illustrative%20Style.png)
 ## 📌 Overview
 
 This repository contains Python 🐍 code for analyzing the impact of load-shedding on various demographic and institutional groups. The analysis is performed using Pandas 🐼 for data manipulation and Matplotlib 📊 for data visualization.
@@ -42,3 +44,23 @@ Feel free to fork this repository and submit pull requests 👐. For major chang
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 📝.
+
+## 📊 Visualizations
+
+### 🧒👦👨👴 Load-shedding Impacting Different Ages
+
+![Load-shedding Impacting Different Ages](Visualizations/loadshedding%20impacting%20different%20ages.png)
+
+### 🏫 Impact of Load-shedding on Types of Institutions
+
+![Impact of Load-shedding on Types of Institutions](Visualizations/impact%20of%20load%20shedding%20on%20the%20types%20of%20Institutions%20.png)
+
+### 📈 Impact of Load-shedding on Types of Institutions (Graph)
+
+![Impact of Load-shedding on Types of Institutions (Graph)](Visualizations/impact%20of%20load%20shedding%20on%20the%20types%20of%20Institutions%20%28graph%29.png)
+
+### 🔥 Impact of Load-shedding on Types of Institutions (Heat Map)
+
+![Impact of Load-shedding on Types of Institutions (Heat Map)](Visualizations/impact%20of%20load%20shedding%20on%20the%20types%20of%20Institutions%20%28Heat%20Map%29.png)
+
+
