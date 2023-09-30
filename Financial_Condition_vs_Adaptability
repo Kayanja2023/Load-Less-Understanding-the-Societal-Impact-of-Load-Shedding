@@ -1,0 +1,17 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# Read the data from the CSV file in the specified location
+df = pd.read_csv('C:\\Users\\Dell\\Downloads\\data.csv')
+
+# Create a scatter plot
+plt.figure(figsize=(12, 6))
+plt.scatter(df['Financial Condition'], df['Adaptivity Level'], c='blue', marker='o')
+
+# Add labels and title
+plt.xlabel('Financial Condition')
+plt.ylabel('Adaptivity Level')
+plt.title('Financial Condition vs. Adaptivity Level')
+
+# Show the plot
+plt.show()
