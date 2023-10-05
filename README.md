@@ -1,6 +1,6 @@
 
 # 🌐 Load-Shedding Impact Analysis 🌐
-#
+##
 ![Plumbing Business Card](Visualizations/Plumbing%20Business%20Card%20in%20Teal%20and%20White%20Illustrative%20Style.png)
 ## 📌 Overview
 
