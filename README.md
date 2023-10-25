@@ -1,7 +1,8 @@
 
 # 🌐 Load-Shedding Impact Analysis 🌐
 ##
-![Plumbing Business Card](Visualizations/Plumbing%20Business%20Card%20in%20Teal%20and%20White%20Illustrative%20Style.png)
+![Load-Less-Understanding-the-Societal-Impact-of-Load-Shedding](Visualizations/Black%20Outs.png)
+
 ## 📌 Overview
 
 This repository contains Python 🐍 code for analyzing the impact of load-shedding on various demographic and institutional groups. The analysis is performed using Pandas 🐼 for data manipulation and Matplotlib 📊 for data visualization.
